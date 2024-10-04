@@ -1,0 +1,24 @@
+/* Định dạng chung cho các phần tử có số lẻ */
+.odd-item {
+    background-color: #f8d7da; /* Đỏ nhạt/hồng */
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+  }
+  
+  /* Định dạng riêng cho phần tử thứ hai */
+  #item2 {
+    color: rgb(0, 0, 255); /* Chữ màu xanh dương */
+    font-size: 36px;
+  }
+  
+  /* Định dạng riêng cho phần tử thứ ba */
+  .special-item {
+    font-size: 24px;
+  }
+  
+  /* Định dạng riêng cho phần tử thứ tư */
+  #item4 {
+    background-color: #d4edda; /* Màu xanh nhạt */
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
